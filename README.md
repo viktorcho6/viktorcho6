@@ -19,5 +19,3 @@
     </a>
 </p>
     
------
-[![Discord Presence](https://lanyard.cnrad.dev/api/672881837898727426)](https://discord.com/users/672881837898727426)
